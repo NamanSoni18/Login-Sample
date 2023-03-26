@@ -17,7 +17,7 @@ src="https://img.shields.io/badge/-@naman__soni.19-purple?style=flat-square&amp;
 <p>💻 Facebook: <a href="https://www.facebook.com/naman.soni.96995238/" target="_new"><img
 src="https://img.shields.io/badge/-naman__soni.96995238-blue?style=flat-square&amp;logo=facebook&amp;logoColor=white&amp;link=https://www.facebook.com/naman.soni.96995238/" alt="Facebook Badge"></a></p>
 <h2>Here is a Image of Login Page</h2>
-<img src="Website_Real\Website\login\Screenshot 2023-03-26 123550.jpg" alt="No Image">
+<img src="Screenshot 2023-03-26 123550.jpg" alt="No Image">
 <p>The Background one is a video which this page an awesome Look 🔥</p>
 <p> In the username Section Email ID will be Written</p>
 </body>
